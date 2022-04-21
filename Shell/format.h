@@ -1,6 +1,5 @@
 /**
- * shell
- * CS 241 - Spring 2021
+ * shell- format
  */
 #pragma once
 #include <stdio.h>

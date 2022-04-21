@@ -12,8 +12,7 @@
 #include <unistd.h> 
 #include <signal.h>
 #include <fcntl.h>
-#include <ctype.h> 
-
+#include <ctype.h>
 
 #include <sys/types.h>
 #include <sys/stat.h>

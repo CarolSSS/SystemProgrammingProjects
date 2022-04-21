@@ -1,6 +1,5 @@
 /**
- * shell
- * CS 241 - Spring 2021
+ * shell- format
  */
 #include "format.h"
 #include <limits.h>

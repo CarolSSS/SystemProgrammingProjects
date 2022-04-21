@@ -1,6 +1,15 @@
 # Shell
+
+## Setting up
+make
+./shell
+
+## Content
 This project created a runnable command line which accept commands as inputs and execute the corresponding programs in response.
 
-It supports various of built-in commands, external commands, operators, etc.
+It not only supports various of built-in, external, and Signal commands; but also various operators. 
+For example, you could key in commands "ps", "history", "echo", "cd", "!history", etc. And it also supports reading commands from an txt file.
 
-Credit from MP Shell (https://cs241.cs.illinois.edu/assignments/shell.html)
+
+Then have fun! 
+
